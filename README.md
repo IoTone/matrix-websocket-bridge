@@ -2,7 +2,7 @@
 
 This fork was intended to be a real fork, but I needed to add large objects and this required git-lfs.  Because git-lfs is a bandaid solution on git, it is sadly not able to support public forks (on github?) .  Read more: https://github.com/git-lfs/git-lfs/issues/1906#issuecomment-276602035
 
-I moved the fork to here: https://github.com/IoTone/matrix-websocket-bridge-ar-x
+I moved the fork to here: https://github.com/IoTone/matrix-websocket-bridge-ar-xr
 
 It's a fork, but it isn't connected to the upstream project anymore.  Sad about this.
 
